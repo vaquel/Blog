@@ -5,9 +5,9 @@ namespace App\Http\Controllers;
 
 class gameController
 {
-    public function plan()
+    public function plane()
     {
-        return view('plan');
+        return view('game.plane');
     }
 
 }
