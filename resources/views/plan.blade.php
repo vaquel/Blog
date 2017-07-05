@@ -3,9 +3,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>神作：采用webGl技术实现的H5游戏 | jQuery特效|手机微信网站特效| 网页特效库</title>
-    <meta name="keywords" content="SVG特效, 手机微信网站特效, css3动画, html5特效, 网页特效" />
-    <meta name="description" content="网页特效库-专注于HTML5、CSS3、js、jQuery、手机移动端等网页特效的手机与分享。特效库始终坚持：无会员、无积分、无限制的“三无原则”，所有的资源都免费提供广大童鞋下载学习和使用。" />
+    <title>biu~biu~biu</title>
+
+    <link rel="icon" href="img/cloud.ico" >
 
     <link rel="stylesheet" type="text/css" href="css/demo.css" />
     <link rel="stylesheet" type="text/css" href="css/game.css" />
