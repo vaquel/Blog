@@ -16,4 +16,4 @@
 //});
 
 
-Route::get('/','gameController@plan');git p
+Route::get('/','gameController@plan');
