@@ -3,7 +3,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>一蓑烟雨任平生</title>
+    <title>biu~biu~biu</title>
 
     <link rel="icon" href="img/cloud.ico" >
 
