@@ -1,0 +1,34 @@
+body {
+  background: #fafafa;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #334;
+  font-family: Baskerville, Georgia, serif;
+}
+a {
+  color: inherit;
+}
+a:visited {
+  color: #555;
+}
+header {
+  padding-top: 20px;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
+h1 {
+  font-size: 3em;
+}
+h3 {
+  font-size: 1.2em;
+}
+button {
+  background: transparent;
+  border: 1px solid #ccc;
+}
