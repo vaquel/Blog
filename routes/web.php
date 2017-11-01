@@ -1,15 +1,10 @@
 <?php
 
 
-//Route::get('/', 'GameController@plane');
+Route::get('/', 'BlogController@index');
 
-Route::get('/', 'BlogController@login');
+Route::get('/increment', 'BlogController@increment');
 
-Route::get('/ridicule', 'BlogController@ridicule');
+Route::post('/increment', 'BlogController@doIncrementNote');
 
-Route::get('/technology', 'BlogController@technology');
-
-Route::get('/faith', 'BlogController@faith');
-
-Route::get('/me', 'BlogController@index');
-
+Route::post('/increment/content', 'BlogController@doIncrementContent');
