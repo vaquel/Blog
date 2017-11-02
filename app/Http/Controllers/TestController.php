@@ -11,7 +11,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Support\Facades\DB;
 
-class TesrController
+class TestController
 {
     public function test()
     {
