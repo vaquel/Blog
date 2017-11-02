@@ -77,4 +77,18 @@ class BlogController extends Controller
             'notes' => $lists
         ]);
     }
+
+    public function getContentList()
+    {
+        $noteId = $this->request->input('noteId');
+
+        $contents = DB::table('content')
+            ->where('note_id', $noteId)
+            ->get()
+            ->toArray();
+
+        return response()->json([
+            'content' => $contents
+        ]);
+    }
 }

@@ -12,8 +12,9 @@
 
     <div>
         <ul class="nav nav-pills" style="margin-top: 2%;margin-left: 70%;">
+            <li role="presentation"><a href="{{url('/')}}">Home</a></li>
             <li role="presentation" style="color: #2a88bd"><a href="https://github.com/vaquel">GitHub</a></li>
-            <li role="presentation"><a href="#">AboutMe</a></li>
+            <li role="presentation"><a href="{{url('/about')}}">AboutMe</a></li>
             <li role="presentation"><a href="#">Links</a></li>
         </ul>
     </div>
