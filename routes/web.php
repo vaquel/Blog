@@ -12,3 +12,5 @@ Route::post('/increment/content', 'BlogController@doIncrementContent');
 Route::get('/content/list', 'BlogController@getContentList');
 
 Route::get('/about', 'AboutMeController@aboutMe');
+
+Route::get('/test', 'TestController@test');
