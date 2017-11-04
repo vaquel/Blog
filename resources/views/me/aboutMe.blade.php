@@ -17,7 +17,7 @@
                 <samp> Be expert in Hearth Stone and Defense of the Ancients 2</samp>
             </li>
             <li>
-                <samp> Buried rap gad</samp>
+                <samp> Buried rap god</samp>
             </li>
             <li>
                 <samp> learner of Hypertext Preprocessor </samp>
