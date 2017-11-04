@@ -42,10 +42,10 @@
         <entry file="file://$PROJECT_DIR$/resources/views/me/aboutMe.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+              <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="72" />
               <folding>
                 <element signature="e#58#82#0#HTML" expanded="true" />
-                <element signature="e#796#837#0#HTML" expanded="true" />
+                <element signature="e#812#853#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -383,12 +383,12 @@
       <workItem from="1509592355486" duration="5360000" />
       <workItem from="1509605965227" duration="4132000" />
       <workItem from="1509675348438" duration="1000" />
-      <workItem from="1509765113553" duration="4880000" />
+      <workItem from="1509765113553" duration="4979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89638000" />
+    <option name="totallyTimeSpent" value="89737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,10 +679,10 @@
     <entry file="file://$PROJECT_DIR$/resources/views/me/aboutMe.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="72" />
           <folding>
             <element signature="e#58#82#0#HTML" expanded="true" />
-            <element signature="e#796#837#0#HTML" expanded="true" />
+            <element signature="e#812#853#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

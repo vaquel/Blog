@@ -5,7 +5,7 @@
             <h2>About Me <small>biu biu biu</small></h2>
 
             <li>
-                <samp> Having good thinking of face to ZhuangBility program </samp>
+                <samp> Having good thinking of face to cockiness program </samp>
             </li>
             <li>
                 <samp> Was delayed by the professional player</samp>
