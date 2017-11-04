@@ -3,6 +3,10 @@
 
         <div style="margin-left: 12%">
             <h2>About Me <small>biu biu biu</small></h2>
+
+            <li>
+                <samp> Having good thinking of face to ZhuangBility program </samp>
+            </li>
             <li>
                 <samp> Was delayed by the professional player</samp>
             </li>
